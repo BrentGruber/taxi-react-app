@@ -4,17 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
+Django = "*"
 djangorestframework = "*"
 channels = "*"
 channels-redis = "*"
 pytest-asyncio = "*"
-pillow = "*"
+Pillow = "*"
 djangorestframework-simplejwt = "*"
 psycopg2-binary = "*"
+pytest-django = "*"
 
 [dev-packages]
-pytest-django = "*"
 
 [requires]
 python_version = "3.9"
